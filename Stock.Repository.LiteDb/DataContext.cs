@@ -1,4 +1,5 @@
 ﻿using LiteDB;
+using System;
 using Stock.Repository.LiteDb.Interface;
 using Stock.Repository.LiteDb.Configuration;
 
